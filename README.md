@@ -19,3 +19,5 @@ Shop-Palestine is an online shopping platform designed to serve the Palestinian 
 For any inquiries, please contact:
 - Email: harayen806@gmail.com
 - GitHub: rayen2007-max
+
+![alt text](image.png)
